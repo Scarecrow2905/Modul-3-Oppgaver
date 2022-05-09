@@ -1,0 +1,15 @@
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.AssemblyInfo.cs
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\bin\Debug\net6.0\objects.exe
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\bin\Debug\net6.0\objects.deps.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\bin\Debug\net6.0\objects.runtimeconfig.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\bin\Debug\net6.0\objects.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\bin\Debug\net6.0\objects.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\refint\objects.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\objects.genruntimeconfig.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\objects\obj\Debug\net6.0\ref\objects.dll
