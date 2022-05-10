@@ -1,0 +1,15 @@
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\bin\Debug\net6.0\OppgaveSocialMedia.exe
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\bin\Debug\net6.0\OppgaveSocialMedia.deps.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\bin\Debug\net6.0\OppgaveSocialMedia.runtimeconfig.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\bin\Debug\net6.0\OppgaveSocialMedia.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\bin\Debug\net6.0\OppgaveSocialMedia.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.AssemblyInfo.cs
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\refint\OppgaveSocialMedia.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\OppgaveSocialMedia.genruntimeconfig.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-Oppgaver\OppgaveSocialMedia\obj\Debug\net6.0\ref\OppgaveSocialMedia.dll

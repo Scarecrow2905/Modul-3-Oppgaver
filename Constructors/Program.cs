@@ -15,6 +15,11 @@ namespace Constructors
             book1.author = "Andrzej Sapowski";
             book1.pages = 200;
 
+            Book book2 = new Book();
+            book2.title = "Harry Potter";
+            book2.author = "Andrzej Sapowski";
+            book2.pages = 200;
+
             Console.WriteLine(book1.title);
             Console.WriteLine(book1.author);
             Console.WriteLine(book1.pages);
